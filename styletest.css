@@ -1,0 +1,17 @@
+.header
+{
+    width: 1140px;
+    display: flex;
+    margin: auto;
+}
+.block-1
+{
+    background-color: tomato;
+    width: 50%;
+    height: 200px;
+}
+.block-2{
+    background-color: blue;
+    width: 50%;
+    height: 200px;
+}
